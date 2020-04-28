@@ -13,6 +13,6 @@ Utilice el cifrado Cesar como método de encriptación dentro de mi programa. El
 - Para desencriptar el archivo o texto es necesario una llave que el mismo programa proporciona al momento de encriptar
 - Para encriptar y desencriptar es necesario siempre escribir ruta, nombre y extensión del archivo.
 - Algunas veces solo requerirá la ruta ya que el programa generara un archivo con un nombre genérico como:
-		 - textoEncriptado.txt
-		 - archivoEncriptado.txt
-		 - archivoDesencriptado.txt
+	- textoEncriptado.txt
+	- archivoEncriptado.txt
+	- archivoDesencriptado.txt
