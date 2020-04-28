@@ -2,8 +2,10 @@
 ## Actividad Extra
 
 Maestro: Luis Antonio Medellín Serna
+
 Alumno: Moisés Hernández Del toro
 Código: 214583939
+
 Materia:  Seminario de Solución de Problemas de Ingeniería de Software I
 #
 Utilice el cifrado Cesar como método de encriptación dentro de mi programa. El programa puede encriptar como desencriptar texto y archivos de texto, para realizar la encriptación de un texto es necesario **guardarlo** (la opción ya se encuentra dentro del programa) en un archivo.
